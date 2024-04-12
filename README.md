@@ -18,7 +18,7 @@
 | 工作             | 弱電工程                  |
 | 興趣             | 到戶外踏踏青、看書                  |
 >#### A-Lin 有一種悲傷
-<a href="http://(https://youtu.be/ZqbjJa4UWBY?si=ZJQBGcHZNxHDgfkG) /></a>
+<a href="https://youtu.be/ZqbjJa4UWBY?si=ZJQBGcHZNxHDgfkG /></a>
 <br>影片取自 youtube
 
 
