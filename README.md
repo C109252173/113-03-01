@@ -13,4 +13,5 @@
 | 學校             | 高雄科技大學                  |
 | 電子郵件         | C109252173@nkust.edu.tw          |
 | 選修             | 智慧城市導論                  |
-<img src="[https://s05.calm9.com/qrcode/2024-04/PMDE5W96OU.png" width=300 height=300/>
+![image](https://github.com/C109252173/113-03-01/assets/161834638/c08fcb11-35ae-4e83-bd0e-381f0e3a11b5)
+
