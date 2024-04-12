@@ -17,7 +17,7 @@
 | 選修             | 智慧城市導論                  |
 | 工作             | 弱電工程                  |
 | 興趣             | 到戶外踏踏青、看書                  |
->#### 
+>#### A-Lin 有一種悲傷
 https://youtu.be/ZqbjJa4UWBY?si=r5S-yKf36bI7m2o9
 <br>影片取自 youtube
 ![image](https://github.com/C109252173/113-03-01/assets/161834638/c08fcb11-35ae-4e83-bd0e-381f0e3a11b5)
