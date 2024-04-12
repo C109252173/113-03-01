@@ -18,8 +18,10 @@
 | 工作             | 弱電工程                  |
 | 興趣             | 到戶外踏踏青、看書                  |
 >#### A-Lin 有一種悲傷
-<a href="http://www.youtu.be/ZqbjJa4UWBY?si=46_ZhrKp4JTbiYvI" target="_blank"><img src="http://img.youtube.com/vi/cIULsEsSR38/0.jpg" 
-alt="智慧消防" width="400" height="250" border="10" /></a>
+<a href="https://youtu.be/ZqbjJa4UWBY?si=VjR9bVZ8yLHC4pvc"><img src="http://img.youtube.com/vi/tfrMbCCHXlA/0.jpg" 
+alt="智能影像辨識" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
 
 
 ![image](https://github.com/C109252173/113-03-01/assets/161834638/c08fcb11-35ae-4e83-bd0e-381f0e3a11b5)
